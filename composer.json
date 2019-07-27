@@ -12,7 +12,8 @@
     },
     "require": {
         "php": ">=7.2.0",
-        "yiisoft/yii2": "~2.0.20"
+        "yiisoft/yii2": "~2.0.20",
+        "symfony/dotenv": "~4.3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~8.2.0",
@@ -21,7 +22,7 @@
     "repositories": {
         "0": {
             "type": "composer",
-            "url": "https://asset-packagist.org"
+            "url": "https://assets-packagist.oss-cn-shanghai.aliyuncs.com"
         },
         "packagist": {
             "type": "composer",
